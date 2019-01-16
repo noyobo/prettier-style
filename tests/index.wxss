@@ -1,0 +1,10 @@
+body {
+  width: 100rpx;
+  margin-left: 48rpx;
+  border-radius: 16rpx;
+  height: 100rpx;
+  background-color: #fff;
+  position: relative;
+  box-shadow: 0 0 48rpx rgba(47, 53, 66, 0.2);
+  margin-right: 48rpx;
+}

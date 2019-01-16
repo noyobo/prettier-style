@@ -1,15 +1,17 @@
 {
   "name": "prettier-style",
   "version": "0.1.0",
-  "description": "prettier wxss file.",
-  "main": "index.js",
+  "description": "prettier-style is a fool-like formatted styles tool, Support for any style of text content. (less, css, sass, wxss ....)",
+  "main": "lib/prettier.js",
   "bin": {
     "prettier-style": "./bin/cli.js"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.com"
   },
-  "scripts": {},
+  "scripts": {
+    "test": "node ./bin/cli.js ./tests/*.wxss --output=./dist"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/noyobo/prettier-style.git"
