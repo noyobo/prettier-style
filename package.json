@@ -1,15 +1,18 @@
 {
-  "name": "prettier-css",
+  "name": "prettier-style",
   "version": "0.1.0",
   "description": "prettier wxss file.",
   "main": "index.js",
   "bin": {
-    "prettier-css": "./bin/cli.js"
+    "prettier-style": "./bin/cli.js"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.com"
   },
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/noyobo/prettier-css.git"
+    "url": "git+https://github.com/noyobo/prettier-style.git"
   },
   "keywords": [
     "prettier",
@@ -19,9 +22,9 @@
   "author": "noyobo <noyobo@gmai.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/noyobo/prettier-css/issues"
+    "url": "https://github.com/noyobo/prettier-style/issues"
   },
-  "homepage": "https://github.com/noyobo/prettier-css#readme",
+  "homepage": "https://github.com/noyobo/prettier-style#readme",
   "dependencies": {
     "chalk": "^2.4.2",
     "css-declaration-sorter": ">4.0.0",
