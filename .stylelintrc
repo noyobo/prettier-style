@@ -1,0 +1,57 @@
+{
+  "extends": "stylelint-config-standard",
+  "rules": {
+    "no-descending-specificity": null,
+    "selector-type-no-unknown": [
+      true,
+      {
+        "ignoreTypes": [
+          "page",
+          "view",
+          "scroll-view",
+          "swiper",
+          "swiper",
+          "swiper-item",
+          "movable-area",
+          "cover-view",
+          "cover-image",
+          "icon",
+          "text",
+          "rich-text",
+          "progress",
+          "button",
+          "checkbox",
+          "form",
+          "input",
+          "label",
+          "picker",
+          "picker-view",
+          "radio",
+          "slider",
+          "switch",
+          "textarea",
+          "navigator",
+          "functional-page-navigator",
+          "audio",
+          "image",
+          "video",
+          "camera",
+          "live-player",
+          "live-pusher",
+          "map",
+          "canvas",
+          "open-data",
+          "web-view",
+          "ad",
+          "official-account"
+        ]
+      }
+    ],
+    "unit-no-unknown": [
+      true,
+      {
+        "ignoreUnits": ["rpx"]
+      }
+    ]
+  }
+}

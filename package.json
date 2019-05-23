@@ -37,5 +37,8 @@
     "minimist": "^1.2.0",
     "stylelint": "^9.9.0",
     "through2": "^3.0.0"
+  },
+  "devDependencies": {
+    "stylelint-config-standard": "18.3.0"
   }
 }
