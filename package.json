@@ -1,6 +1,6 @@
 {
   "name": "prettier-style",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "prettier-style is a fool-like formatted styles tool, Support for any style of text content. (less, css, sass, wxss ....)",
   "main": "lib/prettier.js",
   "bin": {
