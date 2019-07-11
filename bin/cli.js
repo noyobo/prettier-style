@@ -4,6 +4,9 @@ const parseArgs = require('minimist');
 
 const argv = parseArgs(process.argv.slice(2), {
   boolean: ['skip-lint'],
+  default: {
+    output: './',
+  },
   alias: {
     s: 'skip-lint',
     o: 'output',
