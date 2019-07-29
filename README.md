@@ -1,9 +1,7 @@
 # prettier-style
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/noyobo/prettier-style.svg)](https://greenkeeper.io/)
 [![npm version](http://img.shields.io/npm/v/prettier-style.svg)](https://www.npmjs.org/package/prettier-style)
 [![npm download](http://img.shields.io/npm/dm/prettier-style.svg)](https://www.npmjs.org/package/prettier-style)
-[![npm engines](http://img.shields.io/node/v/prettier-style.svg)](https://www.npmjs.org/package/prettier-style)
 [![build status](http://img.shields.io/travis/noyobo/prettier-style.svg)](https://travis-ci.org/noyobo/prettier-style)
 [![Coverage Status](https://img.shields.io/coveralls/noyobo/prettier-style.svg)](https://coveralls.io/r/noyobo/prettier-style)
 
