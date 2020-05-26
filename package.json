@@ -7,7 +7,7 @@
     "prettier-style": "./bin/cli.js"
   },
   "publishConfig": {
-    "registry": "https://registry.npmjs.com"
+    "registry": "https://registry.npmjs.org"
   },
   "scripts": {
     "test": "nyc ava && nyc report --reporter=lcov",
