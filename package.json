@@ -39,7 +39,7 @@
     "minimist": "^1.2.0",
     "postcss-less": "^3.1.4",
     "postcss-sass": "^0.4.4",
-    "stylelint": "^13.5.0",
+    "stylelint": "^15.10.1",
     "through2": "^3.0.1"
   },
   "devDependencies": {
